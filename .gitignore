@@ -1,0 +1,26 @@
+# Personal data — never commit
+memory/
+
+# Paper writing drafts — never commit
+work/papers/
+
+# Conversation records — never commit
+conversations/nodes/
+conversations/transcripts/
+conversations/threads/
+
+# Runtime logs — never commit
+tools/audit/logs/
+tools/audit/digests/
+
+# Generated analysis reports — never commit
+tools/analysis/daily/20*.md
+tools/analysis/daily/20*/
+tools/analysis/daily/summaries/
+tools/analysis/weekly/20*.md
+tools/analysis/weekly/20*/
+tools/analysis/weekly/summaries/
+
+# OS files
+.DS_Store
+Thumbs.db
