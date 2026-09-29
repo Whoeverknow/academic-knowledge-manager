@@ -86,3 +86,19 @@ bash scripts/init-directories.sh
 ---
 
 <p align="center">MIT · Built with Claude Cowork · 终身积累，永不爆炸</p>
+
+---
+
+## ✅ 证据链 · 🧭 溯源
+
+| 项 | 依据（仓库内可核验） |
+|---|---|
+| 发布清单 | `RELEASE-MANIFEST.md` —— 全新电脑重建本系统所需的最小文件集 |
+| 实时状态 | `tools/INDEX.md` —— 31 条已发布条目 · 120+ 标签 · 上次更新 2026-05-27（以 CONSTITUTION v2.7 为准） |
+| 技能入口 | `skill/SKILL.md` —— Cowork skill（名称 `academic-knowledge-manager`，触发描述 v3.0） |
+| 设计文档 | `tools/SYSTEM-DESIGN-v3.0.md` + CONVERSATION-/MEMORY-WIKI-DESIGN + FRACTAL-WIKI-AUDIT |
+| 初始化脚本 | `scripts/init-directories.sh`（对应上文「一键安装」） |
+| 隐私边界 | 个人运行时数据（memory / conversations 明细 / 审计日志 / 论文草稿）全部 `.gitignore` —— 仓库只含规则与知识 |
+| 许可 | README 标注 MIT；⚠️ 仓库内暂无 `LICENSE` 文件，建议补充以完成溯源 |
+
+🧭 关联仓库：[AgentSkill](https://github.com/Whoeverknow/AgentSkill)（个人基线 v3.0）· [FinalAgentSkill](https://github.com/Whoeverknow/FinalAgentSkill)（v3.1 Portable 发布包）
